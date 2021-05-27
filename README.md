@@ -1,0 +1,2 @@
+# Aseprite
+Ücretsiz aseprite kampanyası!
